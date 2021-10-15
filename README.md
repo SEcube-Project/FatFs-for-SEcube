@@ -1,7 +1,7 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
 # FatFs-for-SEcube
-Customized firmware for the SEcube™ device, integrating the FatFs library. Thanks to FatFs, the firmware can manage files stored in the Micro SD card of the SEcube™. 
+Porting of the FatFs library for the SEcube™ firmware. 
 
 Copyright (C) 2021 Blu5 Labs Ltd.
 
