@@ -1,6 +1,6 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
-# FatFs-for-SEcube
+# FatFs for SEcube™
 Porting of the FatFs library for the SEcube™ firmware. 
 
 Copyright (C) 2021 Blu5 Labs Ltd.
